@@ -4,12 +4,20 @@ main.obj: ../main.c
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F28x_Project.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Cla_typedefs.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_analogsubsys.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_cla.h
@@ -42,6 +50,7 @@ main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/includ
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_upp.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xbar.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h
+main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Examples.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_GlobalPrototypes.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_cputimervars.h
@@ -56,8 +65,8 @@ main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_SysCtrl_defines.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Upp_defines.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_defaultisr.h
-main.obj: E:/CCS_Workspace/RF_Inverter/device/device.h
-main.obj: E:/CCS_Workspace/RF_Inverter/device/driverlib.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/device/device.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/device/driverlib.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_memmap.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/adc.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_adc.h
@@ -80,7 +89,7 @@ main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/cmpss.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cmpss.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/cputimer.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cputimer.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/dac.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/dac.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dcsm.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_dcsm.h
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dma.h
@@ -125,18 +134,19 @@ main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_up
 main.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/version.h
 main.obj: ../easydsp/easy2837xS_sci_v8.5.h
 main.obj: ../easydsp/RingBuff.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdlib.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdlibf.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/variables.h
-main.obj: E:/CCS_Workspace/RF_Inverter/device/device.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/cc.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/variables.h
-main.obj: E:/CCS_Workspace/RF_Inverter/device/device.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/math.h
-main.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/_defs.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/filter.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/fault.h
-main.obj: E:/CCS_Workspace/RF_Inverter/application/dido.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdlib.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdlibf.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/variables.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/device/device.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/cc.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/variables.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/device/device.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/math.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_defs.h
+main.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_limits.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/filter.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/fault.h
+main.obj: C:/Users/spec1/CCS/RF_Inverter/application/dido.h
 
 ../main.c:
 
@@ -146,17 +156,33 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_C
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h:
 
@@ -222,6 +248,8 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h:
 
+C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h:
+
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Examples.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_GlobalPrototypes.h:
@@ -250,9 +278,9 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_U
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_defaultisr.h:
 
-E:/CCS_Workspace/RF_Inverter/device/device.h:
+C:/Users/spec1/CCS/RF_Inverter/device/device.h:
 
-E:/CCS_Workspace/RF_Inverter/device/driverlib.h:
+C:/Users/spec1/CCS/RF_Inverter/device/driverlib.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_memmap.h:
 
@@ -298,7 +326,7 @@ C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/cputimer.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cputimer.h:
 
-E:/CCS_Workspace/RF_Inverter/application/dac.h:
+C:/Users/spec1/CCS/RF_Inverter/application/dac.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dcsm.h:
 
@@ -388,27 +416,29 @@ C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/version.h:
 
 ../easydsp/RingBuff.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdlib.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdlib.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdlibf.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdlibf.h:
 
-E:/CCS_Workspace/RF_Inverter/application/variables.h:
+C:/Users/spec1/CCS/RF_Inverter/application/variables.h:
 
-E:/CCS_Workspace/RF_Inverter/device/device.h:
+C:/Users/spec1/CCS/RF_Inverter/device/device.h:
 
-E:/CCS_Workspace/RF_Inverter/application/cc.h:
+C:/Users/spec1/CCS/RF_Inverter/application/cc.h:
 
-E:/CCS_Workspace/RF_Inverter/application/variables.h:
+C:/Users/spec1/CCS/RF_Inverter/application/variables.h:
 
-E:/CCS_Workspace/RF_Inverter/device/device.h:
+C:/Users/spec1/CCS/RF_Inverter/device/device.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/math.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/math.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/_defs.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_defs.h:
 
-E:/CCS_Workspace/RF_Inverter/application/filter.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_limits.h:
 
-E:/CCS_Workspace/RF_Inverter/application/fault.h:
+C:/Users/spec1/CCS/RF_Inverter/application/filter.h:
 
-E:/CCS_Workspace/RF_Inverter/application/dido.h:
+C:/Users/spec1/CCS/RF_Inverter/application/fault.h:
+
+C:/Users/spec1/CCS/RF_Inverter/application/dido.h:
 

@@ -2,12 +2,20 @@
 
 device/F2837xS_DefaultISR.obj: ../device/F2837xS_DefaultISR.c
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h
-device/F2837xS_DefaultISR.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h
+device/F2837xS_DefaultISR.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_analogsubsys.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_cla.h
@@ -40,6 +48,7 @@ device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_upp.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xbar.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h
+device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Examples.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_GlobalPrototypes.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_cputimervars.h
@@ -54,11 +63,11 @@ device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_SysCtrl_defines.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Upp_defines.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_defaultisr.h
-device/F2837xS_DefaultISR.obj: E:/CCS_Workspace/RF_Inverter/application/variables.h
+device/F2837xS_DefaultISR.obj: C:/Users/spec1/CCS/RF_Inverter/application/variables.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F28x_Project.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Cla_typedefs.h
-device/F2837xS_DefaultISR.obj: E:/CCS_Workspace/RF_Inverter/device/device.h
-device/F2837xS_DefaultISR.obj: E:/CCS_Workspace/RF_Inverter/device/driverlib.h
+device/F2837xS_DefaultISR.obj: C:/Users/spec1/CCS/RF_Inverter/device/device.h
+device/F2837xS_DefaultISR.obj: C:/Users/spec1/CCS/RF_Inverter/device/driverlib.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_memmap.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/adc.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_adc.h
@@ -81,7 +90,7 @@ device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837x
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cmpss.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/cputimer.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cputimer.h
-device/F2837xS_DefaultISR.obj: E:/CCS_Workspace/RF_Inverter/application/dac.h
+device/F2837xS_DefaultISR.obj: C:/Users/spec1/CCS/RF_Inverter/application/dac.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dcsm.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_dcsm.h
 device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dma.h
@@ -129,17 +138,33 @@ device/F2837xS_DefaultISR.obj: C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837x
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h:
 
@@ -205,6 +230,8 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h:
 
+C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h:
+
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Examples.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_GlobalPrototypes.h:
@@ -233,15 +260,15 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_U
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_defaultisr.h:
 
-E:/CCS_Workspace/RF_Inverter/application/variables.h:
+C:/Users/spec1/CCS/RF_Inverter/application/variables.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F28x_Project.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Cla_typedefs.h:
 
-E:/CCS_Workspace/RF_Inverter/device/device.h:
+C:/Users/spec1/CCS/RF_Inverter/device/device.h:
 
-E:/CCS_Workspace/RF_Inverter/device/driverlib.h:
+C:/Users/spec1/CCS/RF_Inverter/device/driverlib.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_memmap.h:
 
@@ -287,7 +314,7 @@ C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/cputimer.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/inc/hw_cputimer.h:
 
-E:/CCS_Workspace/RF_Inverter/application/dac.h:
+C:/Users/spec1/CCS/RF_Inverter/application/dac.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib/dcsm.h:
 

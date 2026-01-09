@@ -4,7 +4,7 @@
 
 SHELL = cmd.exe
 
-CG_TOOL_ROOT := C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS
+CG_TOOL_ROOT := C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS
 
 GEN_OPTS__FLAG := 
 GEN_CMDS__FLAG := 
@@ -94,6 +94,9 @@ endif
 ifneq ($(strip $(S64_DEPS)),)
 -include $(S64_DEPS)
 endif
+ifneq ($(strip $(INO_DEPS)),)
+-include $(INO_DEPS)
+endif
 ifneq ($(strip $(CLA_DEPS)),)
 -include $(CLA_DEPS)
 endif
@@ -108,6 +111,9 @@ ifneq ($(strip $(C62_DEPS)),)
 endif
 ifneq ($(strip $(C67_DEPS)),)
 -include $(C67_DEPS)
+endif
+ifneq ($(strip $(PDE_DEPS)),)
+-include $(PDE_DEPS)
 endif
 ifneq ($(strip $(K_DEPS)),)
 -include $(K_DEPS)
@@ -159,7 +165,7 @@ all: $(OBJS) $(CMD_SRCS) $(LIB_SRCS) $(GEN_CMDS)
 DAB_Control.out: $(OBJS) $(CMD_SRCS) $(LIB_SRCS) $(GEN_CMDS)
 	@echo 'Building target: "$@"'
 	@echo 'Invoking: C2000 Linker'
-	"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --cla_support=cla1 --tmu_support=tmu0 --vcu_support=vcu2 -Ooff --advice:performance=all --symdebug:coff --define=DEBUG --define=_DUAL_HEADERS --define=CPU1 --display_error_number --diag_suppress=10063 --diag_warning=225 --diag_wrap=off -z -m"DAB_Control.map" --stack_size=0x100 --warn_sections -i"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/lib" -i"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include" --reread_libs --display_error_number --diag_wrap=off --xml_link_info="DAB_Control_linkInfo.xml" --rom_model -o "DAB_Control.out" $(ORDERED_OBJS)
+	"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/bin/cl2000" -v28 -ml -mt --cla_support=cla1 --float_support=fpu32 --tmu_support=tmu0 --vcu_support=vcu2 -Ooff --advice:performance=all --define=DEBUG --define=_DUAL_HEADERS --define=CPU1 -g --diag_suppress=10063 --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"DAB_Control.map" --stack_size=0x100 --warn_sections -i"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/lib" -i"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --xml_link_info="DAB_Control_linkInfo.xml" --rom_model -o "DAB_Control.out" $(ORDERED_OBJS)
 	@echo 'Finished building target: "$@"'
 	@echo ' '
 

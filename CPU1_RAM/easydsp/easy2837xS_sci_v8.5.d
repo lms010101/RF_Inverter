@@ -2,12 +2,20 @@
 
 easydsp/easy2837xS_sci_v8.5.obj: ../easydsp/easy2837xS_sci_v8.5.c
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h
-easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_analogsubsys.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_cla.h
@@ -40,6 +48,7 @@ easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_upp.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xbar.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h
+easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F28x_Project.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Cla_typedefs.h
 easydsp/easy2837xS_sci_v8.5.obj: C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F2837xS_Examples.h
@@ -63,17 +72,33 @@ easydsp/easy2837xS_sci_v8.5.obj: ../easydsp/RingBuff.h
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_device.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/assert.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/assert.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/linkage.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_ti_config.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdarg.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/linkage.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdbool.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdarg.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stddef.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_types.h:
 
-C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include/stdint.h:
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/cdefs.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_types.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdbool.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stddef.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/_stdint40.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/machine/_stdint.h:
+
+C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include/sys/_stdint.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_adc.h:
 
@@ -138,6 +163,8 @@ C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xbar.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_xint.h:
+
+C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include/F2837xS_can.h:
 
 C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include/F28x_Project.h:
 

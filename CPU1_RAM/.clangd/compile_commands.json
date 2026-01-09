@@ -1,122 +1,122 @@
 [
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/cc.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/cc.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/dac.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/dac.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/dido.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/dido.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/fault.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/fault.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/offset.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/offset.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/application/variables.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/application/variables.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_Adc.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_Adc.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_CodeStartBranch.asm"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_CodeStartBranch.asm"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_CpuTimers.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_CpuTimers.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_DBGIER.asm"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_DBGIER.asm"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_DefaultISR.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_DefaultISR.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_EPwm.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_EPwm.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_EQep.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_EQep.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_GlobalVariableDefs.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_GlobalVariableDefs.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_Gpio.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_Gpio.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_PieCtrl.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_PieCtrl.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_PieVect.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_PieVect.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_SysCtrl.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_SysCtrl.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_Upp.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_Upp.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/F2837xS_usDelay.asm"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\"",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/F2837xS_usDelay.asm"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/device/device.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/device/device.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/easydsp/RingBuff.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/easydsp/RingBuff.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/easydsp/easy2837xS_sci_v8.5.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/easydsp/easy2837xS_sci_v8.5.c"
    },
    {
-      "directory" : "E:/CCS_Workspace/RF_Inverter/CPU1_RAM",
-      "command"   : "clang++ -I\"E:/CCS_Workspace/RF_Inverter\" -I\"E:/CCS_Workspace/RF_Inverter/device\" -I\"E:/CCS_Workspace/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/c2000/ti-cgt-c2000_15.12.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
-      "file"      : "E:/CCS_Workspace/RF_Inverter/main.c"
+      "directory" : "C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/spec1/CCS/RF_Inverter\" -I\"C:/Users/spec1/CCS/RF_Inverter/device\" -I\"C:/Users/spec1/CCS/RF_Inverter/application\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/common/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/device_support/f2837xs/headers/include\" -I\"C:/ti/c2000/C2000Ware_4_00_00_00/driverlib/f2837xs/driverlib\" -I\"C:/ti/ccs2020/ti-cgt-c2000_20.2.7.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -I\"C:/Users/spec1/CCS/RF_Inverter/CPU1_RAM/syscfg\" -xc",
+      "file"      : "C:/Users/spec1/CCS/RF_Inverter/main.c"
    }
 ]
